@@ -8,6 +8,7 @@ yesBtn.addEventListener('click', ()=>{
     sorry.innerHTML = "I LOVEEEEE YOUUUUU <br> SOOOO MUCHHHHH";
     gif.src = 
     "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjRyaGQxMW9zYnBudDJxaWg4cjZ2bzZiY3JmNWhkcmt3ZHRqbnhhbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/W8krmZSDxPIfm/giphy.gif"
+    heading.style.textAlign = 'center';
 });
 
 noBtn.addEventListener('click', ()=> {
